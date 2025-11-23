@@ -1,6 +1,7 @@
 # 新闻情报自动化抽取系统
 
 基于 DSPy 框架和大型语言模型的新闻情报智能抽取系统，能够自动对新闻进行分类并提取结构化信息。</br>
+</br>
 ⚠️执行命令python main.py --data-file test_data.xls --output-file result_output.jsonl，因为批量执行是追加写入，输出文件不要固定文件名，可以按照日期写入新文件，或修改写入逻辑。
 ## 项目简介
 
