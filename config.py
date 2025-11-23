@@ -20,7 +20,7 @@ import litellm
 LLM_CONFIG: Dict[str, Any] = {
     "base_url": "https://api.chatanywhere.tech",
     "headers": {
-        "Authorization": "Bearer sk-V3NEKZqHyWRjcU5UjzJdFCPAIudX1G8ReWd0DeyMYPjeo2Y5",
+        "Authorization": "Bearer sk-YourSk",
         "Content-Type": "application/json",
     },
     "method": "POST",
